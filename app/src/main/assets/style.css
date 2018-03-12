@@ -1,0 +1,38 @@
+body{
+  background-image:url("skin.png");
+  font-size: larger;
+}
+
+table, td, th {
+		border: 1px solid black;
+		border-collapse: separate;
+		text-align: center;
+}
+
+table{
+  width:100%;
+}
+
+thead {
+		text-align: center;
+}
+
+th {
+		color: blue;
+}
+
+td, th {
+		padding: 5px;
+}
+
+.town {
+		color: red;
+}
+
+.village{
+		color: green;
+}
+
+body{
+  text-align: center;
+}

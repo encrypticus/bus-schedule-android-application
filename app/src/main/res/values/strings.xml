@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Расписание автобусов</string>
+    <string name="reload">Обновить</string>
+    <string name="road">Удачи на дорогах :-)</string>
+</resources>
