@@ -16,7 +16,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity implements SwipeRefreshLayout.OnRefreshListener {
 
     WebView vw;
-    int blue;
+    int blue;// yellow color
     int red;
     int green;
     int yellow;
